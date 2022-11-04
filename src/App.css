@@ -1,40 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
 *{
   box-sizing: border-box;
   margin-top: 5px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 5px;
+  background-color: #f2f2f2;
+  
+ 
+  
+  
+
   
 }
 body{
   background-color: whitesmoke;
   color: black;
   
+  
 }
 nav{
   display: flex;
   text-align: center;
-  margin: bottom 20px;
   border: solid whitesmoke;
   border-radius: 0.5rem;
   box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
   height: 80px;
+  
+}
 
-}
-.logoname {
-  margin-left: auto;
-}
 .search {
   margin-left: auto;
-  height: 40pxpx;
-  padding: 6px;
-  border: none;
-  font-size: 17px;
-
+  
+ 
 }
 .news-body{
   display: flex;
   margin-top: 20px;
+  font-family: Poppins, sans-serif;
 
 }
 .newsAreas{
@@ -49,6 +53,8 @@ nav{
   box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
   overflow-y: auto;
+  width: 950px;
+  
 
 }
 
@@ -56,11 +62,13 @@ nav{
   flex:1;
   text-align: center;
   margin-left: 15px;
-  max-width: 150px;
+  max-width: 190px;
   box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
+  
 }
 .latest{
+  
   text-align: left;
   margin-bottom: auto;
   padding-left: 20px;
@@ -93,16 +101,118 @@ nav{
   margin: 0;
   text-align: left;
   text-indent: 20px;
+  font-weight: 40;
+  color: grey;
+  font-size: 0.8rem;
 }
 .socials{
   margin-top: auto;     
 }
 
 .the-news{
+  flex: 1;
   box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
-  height: 70px;
+  height: 80px;
   height: 85%;
   overflow-y: auto;
+  font-family: Roboto Mono;
+  font-weight: 100;
+  font-size: .9em;
+  line-height: 1.6em;
+  margin-left: -8px;
+  
 
+}
+.watchlist{
+
+}
+.App{
+  
+}
+.twitter{
+  display: flex;
+  max-height: 25px;
+}
+.twitter-img{
+  height: 30px;
+  padding:2px;
+  margin-right: -3px;
+}
+.socails{
+  margin-top: 150px;
+}
+.optionButton{
+  font-size: 1rem;
+  
+}
+.newstab{
+  display: flex;
+}
+.timeArrival{
+  flex: 2;
+  margin-right: 5px;
+  padding: 0;
+  font-size: 0.4rem;
+  max-width: 20px;
+}
+.sourceList{
+  
+  color:black;
+}
+.home{
+  margin-bottom:15px;
+}
+.calender{
+  margin-bottom: 15px;
+}
+.aboutUs{
+  margin-bottom: 15px;
+}
+.logoimg{
+  padding-left: 25px;
+  margin-right: auto;
+}
+.coins{
+  display: flex;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+}
+.price{
+  font-weight: 50;
+  font-size: 0.8rem;
+  margin-bottom: 1px;
+}
+.percent{
+  margin-top: 0;
+  font-size: 0.7rem;
+}
+.watchlist{
+  
+  border-radius: 0.5rem;
+  
+}
+.Arrival{
+  font-size: 0.55rem;
+}
+.newstor{
+  text-justify: center;
+  padding-top: 0;
+  margin-left: auto;
+  
+}
+.logoname {
+  margin-left: auto;
+}
+.searchtab{
+  height: 30px;
+  
+  font-size: 17px;
+  border: none;
+  
+  border-radius: 0.5rem;
+  margin-top: 10px;
+  background-color: white;
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  
 }

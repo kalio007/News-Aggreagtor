@@ -3,29 +3,27 @@ import React from 'react';
 export default function Options(){
     return(
         <div className='optionsArea'>
-            <div>
-        <h2>
+            <div className='optionButton'>
+        <h3 className='home'>
             Home
-        </h2>
-        <h2>
+        </h3>
+        <h3 className='calender'>
             calender
-        </h2>
-        <h2>
+        </h3>
+        <h3 className='aboutUs'>
             About Us
-        </h2>
-        <h2>
+        </h3>
+        <h3>
             Blog
-        </h2>
+        </h3>
         </div>
+
         <div className='socails'>
             <p>socials</p>
-            <ul>
-                <li>twitter</li>
-                <li>youtube</li>
-                <li>Discord</li>
-                
-            </ul>
-
+            
+                <div className='twitter'><img src="https://cdn2.iconfinder.com/data/icons/social-media-2151/512/12_Media_social_website_Twitter-128.png" alt='twitter' className='twitter-img' /><a href='https://twitter.com/Kalio_Prince' className='twitterr'>twitter</a></div>
+                <div className='twitter'><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/YouTube.png" alt='twitter' className='twitter-img' /><a href='https://twitter.com/Kalio_Prince' className='twitterr'>Youtube</a></div>
+                <div className='twitter'><img src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/YouTube.png" alt='twitter' className='twitter-img' /><a href='https://twitter.com/Kalio_Prince' className='twitterr'>Youtube</a></div>
         </div>
 
         </div>
