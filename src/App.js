@@ -17,7 +17,7 @@ function App() {
       
     <News
       key = {item.id}
-      link = {item.source}
+      link = {item.link}
       timestamp= {item.arrival}
       heading = {item.heading}
       source = {item.source}

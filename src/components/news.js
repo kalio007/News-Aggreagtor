@@ -17,7 +17,7 @@ export default function News(props){
         <div className="the-news">
             
         <h3 className="the-heading">
-            <a href="{link}" alt="" className="sourceList">
+            <a href= {props.link} alt="" className="sourceList">
         {props.heading}
         </a>
         </h3>
