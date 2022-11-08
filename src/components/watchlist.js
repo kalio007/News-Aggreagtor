@@ -12,7 +12,7 @@ export default function Watchlist(){
         
         <div className ='coins'>
            <div className="watcoin">
-            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/45_Bitcoin_logo_logos-512.png" className="bitcoin"/>
+            <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/45_Bitcoin_logo_logos-512.png" alt="" className="bitcoin"/>
             <p className="thecoin">
                 Bitcoin
                 </p>
@@ -26,7 +26,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" className="bitcoin"/>
+            <img src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Ethereum-512.png" alt="" className="bitcoin"/>
             <p className="thecoin">Ethereum</p>
             </div> 
             
@@ -37,7 +37,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img  src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Dogecoin-256.png" className="bitcoin" />
+            <img  src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Dogecoin-256.png" alt="" className="bitcoin" />
             <p className="thecoin">Dogecoin</p>
             </div> 
             
@@ -48,7 +48,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img src="https://cdn3.iconfinder.com/data/icons/cryptocurrency-132/64/binance-bnb-coin-crypto-digital-money-cryptocurrency-256.png"className="bitcoin"/>
+            <img src="https://cdn3.iconfinder.com/data/icons/cryptocurrency-132/64/binance-bnb-coin-crypto-digital-money-cryptocurrency-256.png" alt="" className="bitcoin"/>
             <p className="thecoin">BNB</p>
             </div> 
             
@@ -59,7 +59,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Cardano-256.png"className="bitcoin"/>
+            <img src="https://cdn0.iconfinder.com/data/icons/blockchain-classic/256/Cardano-256.png"alt ="" className="bitcoin"/>
             <p className="thecoin">Cardano</p>
             </div> 
             
@@ -70,7 +70,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img src="https://cdn1.iconfinder.com/data/icons/cryptocurrency-151/64/solana-bitcoin-cryptocurrency-coin-digital_currency-256.png" className="bitcoin"/>
+            <img src="https://cdn1.iconfinder.com/data/icons/cryptocurrency-151/64/solana-bitcoin-cryptocurrency-coin-digital_currency-256.png" alt="" className="bitcoin"/>
             <p className="thecoin">Solana</p>
             </div> 
             
@@ -81,7 +81,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img src="https://cdn1.iconfinder.com/data/icons/shiba-inu/500/Shiba_Inu_Emoticon-12-256.png" className="bitcoin" />
+            <img src="https://cdn1.iconfinder.com/data/icons/shiba-inu/500/Shiba_Inu_Emoticon-12-256.png"  alt ="" className="bitcoin" />
             <p className="thecoin">Shiba</p>
             </div> 
             
@@ -92,7 +92,7 @@ export default function Watchlist(){
             </div>
             <div className ='coins'>
            <div className="watcoin">
-            <img src ="https://cdn2.iconfinder.com/data/icons/cryptocurrency-logo/128/ic_dot_2-256.png" className="bitcoin" />
+            <img src ="https://cdn2.iconfinder.com/data/icons/cryptocurrency-logo/128/ic_dot_2-256.png" alt=""className="bitcoin" />
             <p className="thecoin">Polkadot</p>
             </div> 
             

@@ -5,7 +5,7 @@ export default function Nav(){
         <div>
         <nav>
 
-        <img src="https://cdn4.iconfinder.com/data/icons/summer-line-5/48/sea_lighthouse_ocean_water_beach-256.png"  className="logoimg"/>
+        <img src="https://cdn4.iconfinder.com/data/icons/summer-line-5/48/sea_lighthouse_ocean_water_beach-256.png" alt="" className="logoimg"/>
         
          
 

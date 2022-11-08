@@ -132,6 +132,7 @@ nav{
   max-height: 25px;
 }
 .twitter-img{
+  flex:1;
   height: 30px;
   padding:2px;
   margin-right: -3px;

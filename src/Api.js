@@ -6,7 +6,7 @@ export default [
         arrival: "2mins ago",
         link: "https://cointelegraph.com/news/wuhan-omits-nfts-from-metaverse-plan-amid-regulatory-uncertainty-in-china",
         heading: "Wuhan omits NFTs from metaverse plan amid regulatory uncertainty in China",
-        source: "cointelegraph"
+        source: "cointelegraph",
     },
     {
         id: 9,
@@ -27,14 +27,14 @@ export default [
         arrival: "10mins ago",
         link: "https://www.coindesk.com/web3/2022/11/07/from-nfl-to-nfts-tim-tebow-gets-into-the-college-game-with-solana-based-platform/",
         heading: "From NFL to NFTs, Tim Tebow Gets Into the College Game With Solana",
-        source: "coindesk"
+        source: "coindesk",
     },
     {
         id: 23,
         arrival: "16mins ago",
         link: "ambcrypto.com/bitcoin",
         heading: "Funding rates hit 6-month high before CPI — 5 things to know in Bitcoin this week",
-        source: "Ambcrypto"
+        source: "Ambcrypto",
     },
     {
         id: 35,
@@ -49,6 +49,7 @@ export default [
         link:"coindek.com",
         heading: "FTX Token price risks 30% plunge as a 23M FTT part moves to Binance",
         source: "coindesk"
-    },
+    }
+    // eslint-disable-next-line
   
 ]
