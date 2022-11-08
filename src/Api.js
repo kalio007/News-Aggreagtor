@@ -19,7 +19,7 @@ export default [
         id: 10,
         arrival: "5mins ago",
         link:"https://www.coindesk.com/business/2022/11/07/ftx-ceo-sam-bankman-fried-denies-insolvency-rumors-as-binance-liquidates-ftt-token/",
-        heading: "FTX CEO Sam Bankman-Fried Denies Insolvency Rumors as Binance Liquidates FTT Token",
+        heading: "FTX CEO Sam Bankman-Fried Denies Insolvency Rumors as Binance Liquidates..",
         source: "coindesk",
     },
     {
