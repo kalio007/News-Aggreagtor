@@ -8,13 +8,13 @@ export default function Options(){
             Home
         </h3>
         <h3 className='calender'>
-            <a href= "https://coinmarketcal.com/en/" >Calender</a>
+            <a href= "https://coinmarketcal.com/en/" className='calender' >Calender</a>
         </h3>
         <h3 className='aboutUs'>
             About Us
         </h3>
         <h3>
-            <a href= "https://medium.com/@kalio_">Blog</a>
+            <a href= "https://medium.com/@kalio_" className='blog'>Blog</a>
         </h3>
         </div>
 
